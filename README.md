@@ -31,6 +31,8 @@ Show all users CLSID
 ```
 .\CLSID-Ninja.ps1 -Search All
 ```
+![image](https://github.com/YosfanEilay/CLSID-Ninja/assets/132997318/8f58c499-2230-4a01-80da-29cce37c5357)
+
 
 Search for specific CLSID on all the users on the host
 ```
