@@ -24,7 +24,8 @@ Show menu of options
 ```
 .\CLSID-Ninja.ps1 -Search Menu
 ```
-![image](https://github.com/YosfanEilay/CLSID-Ninja/assets/132997318/41f1df18-757f-490a-ae96-da32f435f629)
+![image](https://github.com/YosfanEilay/CLSID-Ninja/assets/132997318/cd74d059-0ffb-459e-ab66-c6efc481e314)
+
 
 Show all users CLSID
 ```
