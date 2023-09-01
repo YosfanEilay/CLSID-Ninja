@@ -48,3 +48,10 @@ Tested on: Windows 10, Windows 11.
 .\CLSID-Ninja -Search CLSID "{PUT-YOUR-CLSID}"
 Example: .\CLSID-Ninja -Search CLSID ""{0003000A-0000-0000-C000-000000000046}"
 ```
+<details>
+  <summary>Click to see screenshot</summary>
+  
+![image](https://github.com/YosfanEilay/CLSID-Ninja/assets/132997318/b8638239-0e37-4cd9-a6c6-31ef2a0e1f65)
+
+</details>
+
