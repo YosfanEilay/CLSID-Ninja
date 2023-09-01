@@ -15,6 +15,7 @@ CLSID Ninja is designed to seamlessly integrate into your workflow: <br />
 - **Local Host:** CLSID Ninja can be run locally on the host itself.
 - **Cortex XDR Live Terminal:** Easily execute CLSID Ninja within the Cortex XDR Live Terminal, enhancing your threat analysis capabilities.
 - **Falcon Crowdstrike RTR:** Extend your threat detection and response capabilities with CLSID Ninja in Falcon Crowdstrike RTR,
-  ensuring effective CLSID analysis directly within the platform.
+  ensuring effective CLSID analysis directly within the platform. <br />
+  Tested on: Windows 10, Windows 11.
 
   ## ✏️ How to Run
