@@ -55,3 +55,14 @@ Example: .\CLSID-Ninja -Search CLSID ""{0003000A-0000-0000-C000-000000000046}"
 
 </details>
 
+### 🦅 Example for running tool on Falcon Crowdstrike
+
+<details>
+  <summary>Click to see video</summary>
+The first line of code, is to bypass the execution policy so you can run script on the system.
+```
+Set-ExecutionPolicy b p
+```
+
+  ![Example for CS](https://github.com/YosfanEilay/CLSID-Ninja/assets/132997318/7360cdf7-3b09-40c5-9b4c-5158cae87650)
+
