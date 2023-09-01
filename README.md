@@ -12,6 +12,7 @@ UsrClass.DAT files into the HKLM hive. Streamline your analysis with CLSID Ninja
 ## Compatibility
 Working with EDR's? not a problem!
 CLSID Ninja is designed to seamlessly integrate into your workflow, offering versatile compatibility across various environments:
-- **Cortex XDR Live Terminal:** Easily execute CLSID Ninja within the Cortex XDR Live Terminal, enhancing your threat analysis capabilities
+- **Local Host:** CLSID Ninja can be run locally on the host itself.
+- **Cortex XDR Live Terminal:** Easily execute CLSID Ninja within the Cortex XDR Live Terminal, enhancing your threat analysis capabilities.
 - **Falcon Crowdstrike RTR:** Extend your threat detection and response capabilities with CLSID Ninja in Falcon Crowdstrike RTR,
   ensuring effective CLSID analysis directly within the platform.
