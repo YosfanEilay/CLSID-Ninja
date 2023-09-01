@@ -69,4 +69,3 @@ Set-ExecutionPolicy b p
 <br />
 
 ![Example for CS](https://github.com/YosfanEilay/CLSID-Ninja/assets/132997318/7360cdf7-3b09-40c5-9b4c-5158cae87650)
-<details>
