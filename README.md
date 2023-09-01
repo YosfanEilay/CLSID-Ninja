@@ -29,3 +29,9 @@ Show all users CLSID
 ```
 .\CLSID-Ninja.ps1 -Search All
 ```
+
+Search for specific CLSID on all the users on the host
+```
+.\CLSID-Ninja -Search CLSID "{PUT-YOUR-CLSID}"
+Example: .\CLSID-Ninja -Search CLSID ""{0003000A-0000-0000-C000-000000000046}"
+```
