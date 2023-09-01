@@ -25,7 +25,7 @@ Tested on: Windows 10, Windows 11.
 .\CLSID-Ninja.ps1 -Search Menu
 ```
 <details open>
-  <summary>Screenshot</summary>
+  <summary>Click to see screenshot</summary>
 
 ![image](https://github.com/YosfanEilay/CLSID-Ninja/assets/132997318/cd74d059-0ffb-459e-ab66-c6efc481e314)
 
@@ -36,8 +36,12 @@ Tested on: Windows 10, Windows 11.
 ```
 .\CLSID-Ninja.ps1 -Search All
 ```
+<details open>
+  <summary>Click to see screenshot</summary>
+  
 ![image](https://github.com/YosfanEilay/CLSID-Ninja/assets/132997318/8f58c499-2230-4a01-80da-29cce37c5357)
 
+</details>
 
 ### Search for specific CLSID on all the users on the host
 ```
