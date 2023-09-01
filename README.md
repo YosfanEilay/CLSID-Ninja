@@ -1,0 +1,1 @@
+# CLSID-Ninja
