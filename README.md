@@ -20,6 +20,12 @@ CLSID Ninja is designed to seamlessly integrate into your workflow: <br />
 Tested on: Windows 10, Windows 11.
 
 ## ✏️ How to Run
+Show menu of options
 ```
-test
+.\CLSID-Ninja.ps1 -Search Menu
+```
+
+Show all users CLSID
+```
+.\CLSID-Ninja.ps1 -Search All
 ```
