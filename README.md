@@ -55,7 +55,7 @@ Example: .\CLSID-Ninja -Search CLSID ""{0003000A-0000-0000-C000-000000000046}"
 
 </details>
 
-### 🦅 Example for running tool on Falcon Crowdstrike
+## 🦅 Example for running tool on Falcon Crowdstrike
 
 <details>
   <summary>Click to see video</summary>
