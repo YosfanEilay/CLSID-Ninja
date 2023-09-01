@@ -20,21 +20,21 @@ CLSID Ninja is designed to seamlessly integrate into your workflow: <br />
 Tested on: Windows 10, Windows 11.
 
 ## ✏️ How to Run
-Show menu of options
+### Show menu of options
 ```
 .\CLSID-Ninja.ps1 -Search Menu
 ```
 ![image](https://github.com/YosfanEilay/CLSID-Ninja/assets/132997318/cd74d059-0ffb-459e-ab66-c6efc481e314)
 
 
-Show all users CLSID
+### Show all users CLSID
 ```
 .\CLSID-Ninja.ps1 -Search All
 ```
 ![image](https://github.com/YosfanEilay/CLSID-Ninja/assets/132997318/8f58c499-2230-4a01-80da-29cce37c5357)
 
 
-Search for specific CLSID on all the users on the host
+### Search for specific CLSID on all the users on the host
 ```
 .\CLSID-Ninja -Search CLSID "{PUT-YOUR-CLSID}"
 Example: .\CLSID-Ninja -Search CLSID ""{0003000A-0000-0000-C000-000000000046}"
