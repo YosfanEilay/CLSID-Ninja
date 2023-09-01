@@ -20,3 +20,6 @@ CLSID Ninja is designed to seamlessly integrate into your workflow: <br />
 Tested on: Windows 10, Windows 11.
 
 ## ✏️ How to Run
+```
+test
+```
