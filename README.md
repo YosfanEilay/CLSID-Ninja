@@ -26,7 +26,9 @@ Tested on: Windows 10, Windows 11.
 ```
 <details open>
   <summary>Screenshot</summary>
+
 ![image](https://github.com/YosfanEilay/CLSID-Ninja/assets/132997318/cd74d059-0ffb-459e-ab66-c6efc481e314)
+
 </details>
 
 
