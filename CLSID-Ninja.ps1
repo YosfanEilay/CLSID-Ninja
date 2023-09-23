@@ -44,7 +44,7 @@ switch ($Search) {
     Write-Output "│                                                                          │"
     Write-Output "|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~╯"
     Write-Output "╰> Example:"
-    Write-Output ' .\CLSID-Ninja -Search CLSID ""{0003000A-0000-0000-C000-000000000046}"'
+    Write-Output ' .\CLSID-Ninja -Search CLSID "{0003000A-0000-0000-C000-000000000046}"'
     Write-Output ""
     }
 }
